@@ -25,4 +25,4 @@ TutorRAG is an AI-powered educational assistant built using LangChain and Stream
 
 ## Demo Screenshots
 
-![Screenshot 2024-07-06 171528](https://github.com/kiranmajji1620/tutor_rag/assets/119588005/795f36ac-2cd6-4e87-a9a4-01d80ee30030)
+![Screenshot 2024-07-06 171528](https://github.com/kiranmajji1620/tutor_rag/assets/119588005/23d441e3-5a91-49bf-9e0c-fe37134dde53)
